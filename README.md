@@ -134,6 +134,7 @@ Tous les services doivent être en `STATUS Up`.
   - `http://localhost:8888/...` (routes à définir dans la configuration Gateway)
 
 ---
+<img width="1880" height="890" alt="Capture d&#39;écran 2025-12-14 161625" src="https://github.com/user-attachments/assets/f9b6c3ad-5602-41f4-b37a-7ca7d71f4d63" />
 
 ## 📌 Notes importantes
 
